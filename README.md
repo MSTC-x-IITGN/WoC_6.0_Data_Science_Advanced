@@ -27,3 +27,5 @@
     ```
     python main.py
     ```
+## Credit
+The image scrapper is taken from: https://github.com/ohyicong/Google-Image-Scraper
